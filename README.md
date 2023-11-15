@@ -57,7 +57,7 @@ pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-SDL2
 ```
 
 Add the path to your Mingw-w64 `bin` folder to the Windows PATH environment
-variable (usually `C:\msys64\mingw64\bin`). See [instruction, 4](https://code.visualstudio.com/docs/cpp/config-mingw#_prerequisites).
+variable (usually `C:\msys64\ucrt64\bin.`). See [instruction, 4](https://code.visualstudio.com/docs/cpp/config-mingw#_prerequisites).
 
 
 ### Install flasher drivers (optional)
